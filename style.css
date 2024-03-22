@@ -1,0 +1,48 @@
+[class*="col"]{
+    padding: 1rem;
+    border: 2px solid black;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 5px;
+}
+.back{
+    background-color: rgb(160, 112, 101);
+    grid-column: 1/10;
+    font-size: 20px;
+}
+.num1{
+    background-color: rgb(179, 13, 132);
+}
+.num2{
+    background-color: rgb(107, 178, 19);
+}
+.num3{
+    background-color: rgb(22, 131, 155);
+}
+.num4{
+    background-color: rgb(211, 44, 233);
+}
+.num5{
+    background-color: rgb(193, 1, 1);
+}
+.num6{
+    background-color: rgb(183, 209, 13);
+}
+.num7{
+    background-color: rgb(119, 114, 115);
+}
+.num8{
+    background-color: rgb(76, 86, 18);
+}
+.num9{
+    background-color: rgb(225, 162, 35);
+}
+.num10{
+    background-color: rgb(96, 168, 226);
+}
+.num11{
+    background-color: rgb(84, 155, 206);
+}
+.num12{
+    background-color: rgb(173, 60, 23);
+}
